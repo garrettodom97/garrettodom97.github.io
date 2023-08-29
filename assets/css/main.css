@@ -2988,10 +2988,6 @@ input, select, textarea {
 			flex: 1;
 		}
 
-		.spotlight .content .band-content {
-			margin-left: 4em;
-		}
-
 			.spotlight .content > :last-child {
 				margin-bottom: 0;
 			}
@@ -3009,7 +3005,8 @@ input, select, textarea {
 		}
 
 		.spotlight .image .band-image {
-			margin-left: 0em;	
+			margin-left: 0em;
+			margint-right: 4em;
 		}
 
 			.spotlight .image img {
