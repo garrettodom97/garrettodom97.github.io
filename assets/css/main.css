@@ -3005,8 +3005,8 @@ input, select, textarea {
 		}
 
 		.spotlight .image .band-image {
-			margin-left: 0em;
-			margint-right: 4em;
+			margin-left: 0em !important;
+			margint-right: 4em !important;
 		}
 
 			.spotlight .image img {
