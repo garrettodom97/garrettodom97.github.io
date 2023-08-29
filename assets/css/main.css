@@ -28,9 +28,6 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-band-image {
-	margin-left: 0;
-}
 body {
 	line-height: 1;
 }
@@ -3005,6 +3002,14 @@ input, select, textarea {
 			padding: 0.65em;
 			border-radius: 100%;
 			border: solid 1px;
+		}
+		.spotlight .band-image {
+			display: inline-block;
+			margin-left: 0em;
+			margin-right: 10px;
+			padding: 0.65em;
+			border-radius: 100%;
+			border: solid 1px;	
 		}
 
 			.spotlight .image img {
