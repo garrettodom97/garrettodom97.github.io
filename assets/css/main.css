@@ -3003,6 +3003,7 @@ input, select, textarea {
 			border-radius: 100%;
 			border: solid 1px;
 		}
+
 		.spotlight .band-image {
 			display: inline-block;
 			margin-left: 0em;
@@ -3012,7 +3013,7 @@ input, select, textarea {
 			border: solid 1px;	
 		}
 
-			.spotlight .image img {
+			.spotlight .image .band-image img {
 				display: block;
 				border-radius: 100%;
 				width: 16em;
