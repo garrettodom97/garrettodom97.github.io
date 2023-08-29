@@ -28,8 +28,8 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-band {
-	justify-content: space-between;
+band-image {
+	margin-left: 0;
 }
 body {
 	line-height: 1;
